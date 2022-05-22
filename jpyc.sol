@@ -1,3 +1,5 @@
+pragma solidity ^0.4.24;
+
 contract JPYC is ERC20, owned {
 
   string private _name = "JPY Coin";
