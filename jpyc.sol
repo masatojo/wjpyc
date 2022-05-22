@@ -13,7 +13,7 @@ contract JPYC is ERC20 {
     _mint(msg.sender, value);
     _supplyer = msg.sender;
 
-    // _transfer(msg.sender, 0xe3F345ef7695535387e792e3057492F2635316A0, 10000000e18);
+    // _transfer(msg.sender, 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4, 10000000e18);
     // _transfer(msg.sender, 0x3e4b1BBb86399bB0716C287BBaC8CaB19440E101, 10000000e18);
     // _transfer(msg.sender, 0x67eF210F4232c7c133fc955707036bdDA236B388, 10000000e18);
     // _transfer(msg.sender, 0x9dA232019d5FfB079bb2de216b7fe5F093B90Ea8, 10000000e18);
